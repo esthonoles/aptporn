@@ -12,7 +12,7 @@ sh aptporn --install
 
 Wait until the script ends. For more information run: `./aptporn --help`.
 
-# [Watch the video](https://youtube.com/TerminalRootTV)
+# [Watch the video](https://youtu.be/7xuXIj9U9l8)
 
 # License
 [GNU GPLv3](LICENSE)
